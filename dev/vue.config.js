@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/',
+  publicPath: '/sfrex/',
   assetsDir: 'assets/',
   outputDir: '../../sfgdutrex',
 };
