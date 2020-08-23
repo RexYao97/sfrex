@@ -1,0 +1,14 @@
+/build/
+/config/
+/dist/
+/node_modules/
+/*.js
+# 屏蔽第三方库校验
+/src/common/js/lib/SfGather-1.0.6.min.js
+
+# 暂时忽略有报eslint错误，但是项目并没有任何地方引用的文件，
+# 如果确认没有用，可以考虑直接删除下面文件，如果后续有需要用到再开启对应的eslint校验
+/src/common/js/filter.js
+/src/components/editor.vue
+/src/components/personPicker.vue
+/src/module/tool/jsonView.vue
