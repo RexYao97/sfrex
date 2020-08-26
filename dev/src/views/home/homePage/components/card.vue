@@ -41,7 +41,6 @@ const cardMousehover = function(e) {
     let top = Number(getStyle(preElem, 'top'));
     const id = getStyle(preElem, 'z-index');
     const height = Number(getStyle(preElem, 'height'));
-    // const revalHeight = (windHeight * 0.24) / 3;
     // 保存最大的值
     cacheTop[id] = typeof cacheTop[id] !== 'undefined' ? Math.max(cacheTop[id], top) : top;
     top = Number(cacheTop[id]);

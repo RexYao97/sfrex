@@ -9,9 +9,6 @@ module.exports = {
   publicPath: '/',
   assetsDir: 'assets/',
   outputDir: '../../sfgdutrex',
-  chainWebpack: (config) => {
-    // config.resolve.alias.set('test', path.resolve(__dirname, './src/common'));
-  },
   configureWebpack: (config) => {
     config.resolve = lodash.merge(config.resolve, resolve);
     if (process.env.NODE_ENV === 'production') {
