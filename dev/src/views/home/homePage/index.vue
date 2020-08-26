@@ -1,33 +1,49 @@
 <template>
   <div class="home">
-    <Card :setting="cardFirst" />
-    <Card :setting="cardSecond" />
-    <Card :setting="cardThird" />
-    <Card :setting="cardFourth" />
+    <Card
+      :setting="item"
+      v-for="(item, i) of cardSettings"
+      :key="item.zIndex"
+      :ref="
+        (el) => {
+          cards[i] = el;
+        }
+      "
+    >
+    </Card>
   </div>
 </template>
 
 <script>
-import { reactive } from 'vue';
+import { reactive, ref } from 'vue';
 import Card from './components/card';
 
+const windHeight = document.body.clientHeight;
+
 const getCardSetting = function(color, zIndex, top, height) {
-  return reactive({
+  return {
     color,
     zIndex,
     top,
     height,
-  });
+  };
 };
 export default {
   components: { Card },
   setup() {
+    const cards = ref([]);
+    const height = 0.76 * windHeight;
+    const revalHeight = (windHeight - height) / 3;
+    const cardSettings = reactive([
+      getCardSetting(['#283048', '#859398'], 4, 0, height),
+      getCardSetting(['#000046', '#1cb5e0'], 3, revalHeight, height),
+      getCardSetting(['#44a08d', '#093637'], 2, revalHeight * 2, height),
+      getCardSetting(['#dd5e89', '#f7bb97'], 1, revalHeight * 3, height),
+    ]);
     // 暴露给模板
     return {
-      cardFirst: getCardSetting(['#283048', '#859398'], 4, 0, '76%'),
-      cardSecond: getCardSetting(['#000046', '#1cb5e0'], 3, '8%', '76%'),
-      cardThird: getCardSetting(['#44a08d', '#093637'], 2, '16%', '76%'),
-      cardFourth: getCardSetting(['#dd5e89', '#f7bb97'], 1, '24%', '76%'),
+      cards,
+      cardSettings,
     };
   },
 };

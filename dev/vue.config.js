@@ -1,5 +1,7 @@
 const path = require('path');
 const resolve = require('./config/resolve');
+const lodash = require('lodash');
+const plugins = require('./config/plugins');
 // import loaderConfig from './config/index';
 // const loaderConfig = require('./config/index');
 
@@ -7,12 +9,11 @@ module.exports = {
   publicPath: '/',
   assetsDir: 'assets/',
   outputDir: '../../sfgdutrex',
+  chainWebpack: (config) => {
+    // config.resolve.alias.set('test', path.resolve(__dirname, './src/common'));
+  },
   configureWebpack: (config) => {
-    console.log('\n当前环境', process.env.NODE_ENV);
-    config.resolve = {
-      ...config.resolve,
-      ...resolve,
-    };
+    config.resolve = lodash.merge(config.resolve, resolve);
     if (process.env.NODE_ENV === 'production') {
       // 生产环境
       config.mode = 'production';
@@ -21,6 +22,7 @@ module.exports = {
       // 开发环境
       // 热更新
       config.resolve.symlinks = true;
+      config.plugins = lodash.merge(plugins, config.plugins);
       config.mode = 'development';
     }
   },
