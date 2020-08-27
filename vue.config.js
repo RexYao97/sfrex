@@ -6,9 +6,8 @@ const plugins = require('./config/plugins');
 // const loaderConfig = require('./config/index');
 
 module.exports = {
-  publicPath: '/',
   assetsDir: 'assets/',
-  outputDir: '../../sfgdutrex',
+  outputDir: './dist',
   configureWebpack: (config) => {
     config.resolve = lodash.merge(config.resolve, resolve);
     if (process.env.NODE_ENV === 'production') {
