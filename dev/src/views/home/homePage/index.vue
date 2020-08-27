@@ -58,16 +58,16 @@ export default {
   height: 100%;
   width: 100%;
   .snow {
-    .backgroundImge('../../../assets/snow.jpg');
+    .backgroundImge('https://static-web-new-1c9c20-1257131827.tcloudbaseapp.com/assets/snow.jpg');
   }
   .beach {
-    .backgroundImge('../../../assets/beach.jpg');
+    .backgroundImge('https://static-web-new-1c9c20-1257131827.tcloudbaseapp.com/assets/beach.jpg');
   }
   .fall {
-    .backgroundImge('../../../assets/fall.jpg');
+    .backgroundImge('https://static-web-new-1c9c20-1257131827.tcloudbaseapp.com/assets/fall.jpg');
   }
   .fire {
-    .backgroundImge('../../../assets/fire.jpg');
+    .backgroundImge('https://static-web-new-1c9c20-1257131827.tcloudbaseapp.com/assets/fire.jpg');
   }
 }
 </style>
