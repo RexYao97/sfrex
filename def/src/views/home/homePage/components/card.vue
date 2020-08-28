@@ -93,11 +93,10 @@ const cardClick = function(filterId) {
     const target = getCardOuter(e);
     setStyle(target, 'filter', `url(#filter-${filterId})`);
     const svg = document.querySelector(`#filter-${filterId} feTurbulence`);
-    const turbVal = { val: 0.0 };
     const turbValX = { val: 0.0 };
     const newLineLite = new TimelineLite({
       onUpdate() {
-        svg.setAttribute('baseFrequency', `${turbVal.val} ${turbValX.val}`);
+        svg.setAttribute('baseFrequency', `${turbValX.val} ${turbValX.val}`);
       },
       onComplete() {
         oldlineLite = null;
@@ -111,7 +110,7 @@ const cardClick = function(filterId) {
     if (oldlineLite) {
       newLineLite.kill();
     } else {
-      newLineLite.to(turbVal, 0.2, { val: 0.01, ease: Power0.easeNone }, 0);
+      newLineLite.to(turbValX, 0.2, { val: 0.01, ease: Power0.easeNone }, 0);
       oldlineLite = newLineLite;
     }
   };

@@ -7,7 +7,7 @@ const plugins = require('./config/plugins');
 
 module.exports = {
   assetsDir: 'assets/',
-  outputDir: '../../sfrex',
+  outputDir: '../dist',
   configureWebpack: (config) => {
     config.resolve = lodash.merge(config.resolve, resolve);
     if (process.env.NODE_ENV === 'production') {
