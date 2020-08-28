@@ -36,8 +36,10 @@ export default {
       getCardSetting(['#44a08d', '#093637'], 2, revalHeight * 2, height),
       getCardSetting(['#dd5e89', '#f7bb97'], 1, revalHeight * 3, height),
     ]);
+
     // 暴露给模板
     return {
+      // turb,
       cards,
       cardSettings,
     };
@@ -52,7 +54,7 @@ export default {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
-  // filter: invert(10%);
+  filter: url('#filter-glitch-3');
 }
 .home {
   height: 100%;

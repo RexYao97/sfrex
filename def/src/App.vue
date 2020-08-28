@@ -35,4 +35,10 @@ body {
   margin: 0;
   padding: 0;
 }
+.svg-filters {
+  position: absolute;
+  visibility: hidden;
+  width: 1px;
+  height: 1px;
+}
 </style>

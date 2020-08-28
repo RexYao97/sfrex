@@ -1,5 +1,13 @@
 <template>
-  <div class="background-image" ref="root" @mouseout="cardMouseout" @mouseover="cardMousehover" isCard="true" :style="outerStyle">
+  <div class="background-image" ref="root" @mouseout="cardMouseout" @click="cardClick" @mouseover="cardMousehover" isCard="true" :style="outerStyle">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="svg-filters">
+      <defs>
+        <filter :id="`filter-${filterId}`">
+          <feTurbulence type="fractalNoise" baseFrequency="0.0" numOctaves="3" result="warp" />
+          <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="20" in="SourceGraphic" in2="warpOffset" />
+        </filter>
+      </defs>
+    </svg>
     <div class="home-content" :style="colorBackground">
       <div class=" content">
         <div class="left">
@@ -14,6 +22,7 @@
   </div>
 </template>
 <script>
+import { TimelineLite, Power0 } from 'gsap';
 import { computed, onMounted, ref } from 'vue';
 import { getStyle, setStyle } from 'common/style';
 
@@ -24,6 +33,7 @@ function getOuterStyleSetup(props, renderTop) {
     top: `${renderTop.value}px`,
     'z-index': props.setting.zIndex,
     height: `${props.setting.height}px`,
+    // filter: `url(#filter-${props.setting.zIndex})`,
   }));
 }
 function getBackgroundColor(props) {
@@ -56,11 +66,9 @@ const cardMousehover = function(e) {
     const top = cacheTop[cacheTop.length - id + 1];
     const domTop = Number(getStyle(preElem, 'top'));
     const height = Number(getStyle(preElem, 'height'));
-    console.log(top, domTop);
     if (domTop !== top) {
       setStyle(preElem, 'top', `${-height + top}px`);
     }
-
     preElem = preElem.previousElementSibling;
   }
 };
@@ -78,6 +86,35 @@ const cardMouseout = function(e) {
       preElem = preElem.previousElementSibling;
     }
   });
+};
+const cardClick = function(filterId) {
+  let oldlineLite;
+  return (e) => {
+    const target = getCardOuter(e);
+    setStyle(target, 'filter', `url(#filter-${filterId})`);
+    const svg = document.querySelector(`#filter-${filterId} feTurbulence`);
+    const turbVal = { val: 0.0 };
+    const turbValX = { val: 0.0 };
+    const newLineLite = new TimelineLite({
+      onUpdate() {
+        svg.setAttribute('baseFrequency', `${turbVal.val} ${turbValX.val}`);
+      },
+      onComplete() {
+        oldlineLite = null;
+        newLineLite.reverse();
+      },
+      onReverseComplete() {
+        setStyle(target, 'filter', ``);
+      },
+    });
+
+    if (oldlineLite) {
+      newLineLite.kill();
+    } else {
+      newLineLite.to(turbVal, 0.2, { val: 0.01, ease: Power0.easeNone }, 0);
+      oldlineLite = newLineLite;
+    }
+  };
 };
 export default {
   props: {
@@ -99,6 +136,8 @@ export default {
     return {
       cardMousehover,
       cardMouseout,
+      cardClick: cardClick(props.setting.zIndex),
+      filterId: props.setting.zIndex,
       root,
       colorBackground: getBackgroundColor(props),
       outerStyle: getOuterStyleSetup(props, renderTop),
@@ -120,6 +159,7 @@ export default {
   min-width: 1200px;
   cursor: pointer;
   .transition(top, 0.5s, 'ease-out');
+  // filter: url('#filter-glitch-3');
 }
 .home-content {
   width: 100%;
