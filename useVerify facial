@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T07:32:16.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oTvZ5tDb1V5enstLgPGE" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T07:32:37.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GtgQ979ixoTdPbADh-56" version="20.0.1" type="github">
   <diagram id="0eZwFuOWPu1VkMtdGP4J" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
           <mxGeometry x="218.5" y="120" width="143" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wRlhqfybKKsxJOVD21-C-40" value="whether show the SingPassFace" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="150" width="490" height="570" as="geometry" />
+          <mxGeometry x="1260" y="150" width="370" height="570" as="geometry" />
         </mxCell>
         <mxCell id="wRlhqfybKKsxJOVD21-C-55" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wRlhqfybKKsxJOVD21-C-40" source="wRlhqfybKKsxJOVD21-C-41" target="wRlhqfybKKsxJOVD21-C-52">
           <mxGeometry relative="1" as="geometry" />
