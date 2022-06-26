@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T14:29:17.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HhiSiSzZa4lKjjJHDzl1" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T14:29:50.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JXG3oh4guv6hsMAJ-Ydp" version="20.0.3" type="github">
   <diagram id="ppjsY4W369ssKLrMTD1O" name="Page-1">
     <mxGraphModel dx="2061" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,6 +215,12 @@
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-63" value="认证步骤中间态，&lt;br&gt;主要用于认证步骤的输入中间态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="355" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-0rocMbg39hzFMaeGh-65" value="BE返回结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-0rocMbg39hzFMaeGh-66" value="start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="690" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
