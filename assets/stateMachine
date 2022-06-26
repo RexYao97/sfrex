@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T14:38:58.964Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Cez1E-MYV5ZVWNUvaFMw" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T14:39:26.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9MAFe0dQ2fKiLZpsLyuU" version="20.0.3" type="github">
   <diagram id="ppjsY4W369ssKLrMTD1O" name="Page-1">
     <mxGraphModel dx="2061" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,6 +247,9 @@
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-76" value="反欺诈错误&lt;br&gt;一旦触及了反欺诈一般就直接结束，&lt;br&gt;例如输入pin太多次，人脸识别太多次等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1011" y="620" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-0rocMbg39hzFMaeGh-77" value="常规错误处理，例如服务异常等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="820" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
