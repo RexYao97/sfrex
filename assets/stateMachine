@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T15:33:41.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-16o6jrH4zuOtSiIAYxQ" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T15:35:34.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ahAQBRAvKi7iR0PMvFRe" version="20.0.3" type="github">
   <diagram id="ppjsY4W369ssKLrMTD1O" name="Page-1">
     <mxGraphModel dx="2126" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
           <mxGeometry x="840" y="755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-59" value="&lt;h1&gt;认证步骤&lt;/h1&gt;&lt;p&gt;命中认证步骤状态&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="795" y="255" width="190" height="120" as="geometry" />
+          <mxGeometry x="830" y="280" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qs-0rocMbg39hzFMaeGh-61" target="qs-0rocMbg39hzFMaeGh-50">
           <mxGeometry relative="1" as="geometry">
@@ -304,6 +304,9 @@
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-95" value="onError" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1230" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-0rocMbg39hzFMaeGh-96" value="成功页面的展示处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
