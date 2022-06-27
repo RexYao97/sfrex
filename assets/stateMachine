@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T02:19:44.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="K5BTUteg22m68hZnqfhT" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T02:19:48.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3l0DfT-C0aLTBlC6OKMx" version="20.0.3" type="github">
   <diagram id="ppjsY4W369ssKLrMTD1O" name="Page-1">
     <mxGraphModel dx="2126" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
           <mxGeometry x="1410" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-75" value="这里是一些认证步骤的错误&lt;br&gt;例如：密码二次确认，pin输入错误等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="650" width="220" height="40" as="geometry" />
+          <mxGeometry x="960" y="640" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-76" value="反欺诈错误&lt;br&gt;一旦触及了反欺诈一般就直接结束，&lt;br&gt;例如输入pin太多次，人脸识别太多次等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1011" y="720" width="230" height="60" as="geometry" />
