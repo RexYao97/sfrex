@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T13:57:44.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yXzuj5TbtMk4a71B4QP3" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-03T13:58:30.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="G3q_ifHFiTWPn5pQjUaD" version="20.0.3" type="github">
   <diagram id="ppjsY4W369ssKLrMTD1O" name="Page-1">
     <mxGraphModel dx="2061" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,6 +76,15 @@
             <mxPoint x="1140" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1050" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfSXLoAf1oQwmknrSZIz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qs-0rocMbg39hzFMaeGh-24" target="kfSXLoAf1oQwmknrSZIz-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="880" />
+              <mxPoint x="330" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -212,7 +221,7 @@
           <mxGeometry x="1200" y="355" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-97" value="记录seesionData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="850" width="110" height="30" as="geometry" />
+          <mxGeometry x="150" y="723.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qs-0rocMbg39hzFMaeGh-98" value="记录seesionData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="650" width="110" height="30" as="geometry" />
@@ -275,6 +284,12 @@
         </mxCell>
         <mxCell id="kfSXLoAf1oQwmknrSZIz-41" value="onError" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1140" y="660.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kfSXLoAf1oQwmknrSZIz-43" value="start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="841" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kfSXLoAf1oQwmknrSZIz-44" value="记录seesionData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="880" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
