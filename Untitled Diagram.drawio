@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T12:36:00.366Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HY0rTYONLix_WvecPezp" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T12:36:31.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3DDNjGD0hlHm-iUKxIT0" version="20.0.4" type="github">
   <diagram id="bX5sPl4p7DwddH2O-ysd" name="Page-1">
     <mxGraphModel dx="1234" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,6 +95,9 @@
         <mxCell id="ZQvtZ0A3CkWybkyIGqYU-24" value="Has Transfer Recent" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="275" width="150" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="ZQvtZ0A3CkWybkyIGqYU-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZQvtZ0A3CkWybkyIGqYU-28" target="ZQvtZ0A3CkWybkyIGqYU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZQvtZ0A3CkWybkyIGqYU-28" value="Transfer&amp;nbsp; Input Amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -109,6 +112,15 @@
         </mxCell>
         <mxCell id="ZQvtZ0A3CkWybkyIGqYU-34" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQvtZ0A3CkWybkyIGqYU-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZQvtZ0A3CkWybkyIGqYU-35" target="ZQvtZ0A3CkWybkyIGqYU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQvtZ0A3CkWybkyIGqYU-35" value="Transfer Confirm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQvtZ0A3CkWybkyIGqYU-36" value="Transfer Result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
