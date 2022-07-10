@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T14:01:19.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pC-61T1tHG8yCXoJC655" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T14:06:31.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mEpyO9_kJsmbA16scxms" version="20.0.4" type="github">
   <diagram id="M0_KBZuqWIGg9YLP7ljL" name="Page-1">
     <mxGraphModel dx="1234" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,6 +100,11 @@
         <mxCell id="SEGvGz5C5aGb8x92HdMz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SEGvGz5C5aGb8x92HdMz-25" target="SEGvGz5C5aGb8x92HdMz-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SEGvGz5C5aGb8x92HdMz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SEGvGz5C5aGb8x92HdMz-25" target="SEGvGz5C5aGb8x92HdMz-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SEGvGz5C5aGb8x92HdMz-25" value="Is network allowing?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1380" y="380" width="80" height="80" as="geometry" />
         </mxCell>
@@ -117,6 +122,15 @@
         </mxCell>
         <mxCell id="SEGvGz5C5aGb8x92HdMz-35" value="PayInfo store the limit transfer info&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="815" y="477.5" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SEGvGz5C5aGb8x92HdMz-38" value="show Error Title tip_no_network" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="200.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SEGvGz5C5aGb8x92HdMz-39" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SEGvGz5C5aGb8x92HdMz-40" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="385" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
