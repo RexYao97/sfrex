@@ -1,9 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T12:27:59.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="W20tCVGZSg4SsZs11ag3" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T12:29:20.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xSrhgKvIE9gImlPPqpwM" version="20.0.4" type="github">
   <diagram id="-1kC158XCz1-MCwdijla" name="Page-1">
-    <mxGraphModel dx="1234" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-41" value="alt" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=80;height=30;" vertex="1" parent="1">
+          <mxGeometry x="79" y="410" width="681" height="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-42" value="Balance is 0" style="text" vertex="1" parent="3ltOirrenf1Lg6YZp2Sn-41">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-43" value="Balance more than 0" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;" vertex="1" parent="3ltOirrenf1Lg6YZp2Sn-41">
+          <mxGeometry y="60.00285714285718" width="680.9999999999999" height="67.6" as="geometry" />
+        </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-66" value="verify" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="760" width="490" height="90" as="geometry" />
         </mxCell>
@@ -75,7 +86,7 @@
           <mxGeometry x="16.5" y="1650" width="10" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-14" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;" vertex="1" parent="1">
-          <mxGeometry x="486" y="105" width="44" height="1975" as="geometry" />
+          <mxGeometry x="486" y="105" width="264" height="1975" as="geometry" />
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-15" value="Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3ltOirrenf1Lg6YZp2Sn-14">
           <mxGeometry x="-6" y="5" width="50" height="30" as="geometry" />
@@ -84,7 +95,7 @@
           <mxGeometry x="17" y="255" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-67" value="Payee is PayNow" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="3ltOirrenf1Lg6YZp2Sn-14">
-          <mxGeometry x="-236" y="785" width="500" height="375" as="geometry" />
+          <mxGeometry x="-236" y="770" width="500" height="390" as="geometry" />
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3ltOirrenf1Lg6YZp2Sn-14">
           <mxGeometry x="-161" y="1105" width="10" height="40" as="geometry" />
@@ -281,17 +292,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-41" value="alt" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=80;height=30;" vertex="1" parent="1">
-          <mxGeometry x="79" y="410" width="670" height="1690" as="geometry" />
-        </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-42" value="Balance is 0" style="text" vertex="1" parent="3ltOirrenf1Lg6YZp2Sn-41">
-          <mxGeometry width="100" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-43" value="Balance more than 0" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;" vertex="1" parent="3ltOirrenf1Lg6YZp2Sn-41">
-          <mxGeometry y="60.00285714285718" width="670" height="67.6" as="geometry" />
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-53" value="return passway list" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="3ltOirrenf1Lg6YZp2Sn-12">
           <mxGeometry x="0.4921" y="1" relative="1" as="geometry">
