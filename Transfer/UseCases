@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T12:45:37.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="23zmU97PNF4RSl15fIX1" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T12:46:19.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4ANrdDaRSQysPIwA6out" version="20.0.4" type="github">
   <diagram id="-1kC158XCz1-MCwdijla" name="Page-1">
     <mxGraphModel dx="1234" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,13 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-114" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="3ltOirrenf1Lg6YZp2Sn-16" vertex="1">
-          <mxGeometry x="14" y="1604" width="10" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-115" value="confirm Transfer" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="3ltOirrenf1Lg6YZp2Sn-16" target="3ltOirrenf1Lg6YZp2Sn-114" edge="1">
-          <mxGeometry x="-0.6012" relative="1" as="geometry">
-            <mxPoint x="-329.5" y="1604" as="sourcePoint" />
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="14" y="1609" width="10" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-117" value="verify" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="3ltOirrenf1Lg6YZp2Sn-16" vertex="1">
           <mxGeometry x="-401" y="1665" width="480" height="90" as="geometry" />
@@ -385,9 +379,10 @@
             <mxPoint x="331.5" y="1751.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-126" value="get Payer info" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="3ltOirrenf1Lg6YZp2Sn-12" target="3ltOirrenf1Lg6YZp2Sn-125" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-126" value="[post] bv/v1/account/info" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="3ltOirrenf1Lg6YZp2Sn-12" target="3ltOirrenf1Lg6YZp2Sn-125" edge="1">
+          <mxGeometry x="-0.4847" relative="1" as="geometry">
             <mxPoint x="605" y="1870" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-127" value="return Payer Info" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="3ltOirrenf1Lg6YZp2Sn-125" target="3ltOirrenf1Lg6YZp2Sn-14" edge="1">
@@ -399,6 +394,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="2050" as="sourcePoint" />
             <mxPoint x="250" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-115" value="[post]bv/v1/transfer/verify/get" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="3ltOirrenf1Lg6YZp2Sn-114" edge="1" source="3ltOirrenf1Lg6YZp2Sn-12">
+          <mxGeometry x="-0.5429" y="4" relative="1" as="geometry">
+            <mxPoint x="331.5" y="1704" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
