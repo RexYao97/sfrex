@@ -1,1 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T15:34:22.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="UzbMryodtVIbqzXi6Gtu" type="github"><diagram id="47IVaL1kx54kmbeuJ4_w">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T10:18:27.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="b7j3_JlNE5moWXoEz9EM" version="20.0.4" type="github">
+  <diagram id="47IVaL1kx54kmbeuJ4_w" name="Page-1">
+    <mxGraphModel dx="1234" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-1" target="JsTbQe3BFMPwBzyvsEQM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-2" value="get passwayLimit info" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-10" target="JsTbQe3BFMPwBzyvsEQM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-10" value="get BankLimit Info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-13" target="JsTbQe3BFMPwBzyvsEQM-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="155" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="270" />
+              <mxPoint x="690" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-13" value="is Inter-bank transfer?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-16" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-17" target="JsTbQe3BFMPwBzyvsEQM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-17" value="set BankLimit for Transfer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="960" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="155" as="targetPoint" />
+            <mxPoint x="870" y="155" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-20" target="JsTbQe3BFMPwBzyvsEQM-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="805" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-20" value="is passwayLimit valid?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="750" y="115" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-21" target="JsTbQe3BFMPwBzyvsEQM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-21" value="set passway limit for transfer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="960" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-22" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-24" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-25" target="JsTbQe3BFMPwBzyvsEQM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-25" value="input Amount" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-28" target="JsTbQe3BFMPwBzyvsEQM-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="90" />
+              <mxPoint x="1210" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsTbQe3BFMPwBzyvsEQM-28" target="JsTbQe3BFMPwBzyvsEQM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-28" value="is Amount vaild?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="175" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-31" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsTbQe3BFMPwBzyvsEQM-32" value="show Transfer Result" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
