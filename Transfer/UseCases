@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T12:30:24.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aIC1y5uila0H--4g2tX6" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T12:32:49.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ziQmvROOSQv8um4aPJBH" version="20.0.4" type="github">
   <diagram id="-1kC158XCz1-MCwdijla" name="Page-1">
     <mxGraphModel dx="1234" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-28" value="Is Pay Now" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="670" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-41" value="alt" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=80;height=30;" vertex="1" parent="1">
           <mxGeometry x="79" y="410" width="681" height="1690" as="geometry" />
         </mxCell>
@@ -225,21 +228,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-25" value="get payer transfer limit" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="3ltOirrenf1Lg6YZp2Sn-14">
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-25" value="get payer transfer type limit" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="3ltOirrenf1Lg6YZp2Sn-14">
           <mxGeometry x="0.0141" width="80" relative="1" as="geometry">
             <mxPoint x="330" y="280" as="sourcePoint" />
             <mxPoint x="480" y="280" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-27" value="return limit infor" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="3ltOirrenf1Lg6YZp2Sn-12">
+        <mxCell id="3ltOirrenf1Lg6YZp2Sn-27" value="return transfer type limit info" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="3ltOirrenf1Lg6YZp2Sn-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="310" as="sourcePoint" />
             <mxPoint x="430" y="310" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3ltOirrenf1Lg6YZp2Sn-28" value="Is Pay Now" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=20;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="670" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3ltOirrenf1Lg6YZp2Sn-31" value="return balance" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="3ltOirrenf1Lg6YZp2Sn-12">
           <mxGeometry relative="1" as="geometry">
