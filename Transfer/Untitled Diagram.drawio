@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T02:33:15.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZJqk5Xsuvk_jt_8BJ_aw" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-10T02:33:20.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZRCsZn1dZjGPBm9XRCPT" version="20.1.1" type="github">
   <diagram id="bX5sPl4p7DwddH2O-ysd" name="Page-1">
     <mxGraphModel dx="1234" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="V3oViIxJNqCeqKLx3S1p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZQvtZ0A3CkWybkyIGqYU-13" target="ZQvtZ0A3CkWybkyIGqYU-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZQvtZ0A3CkWybkyIGqYU-13" value="PayNow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="ZQvtZ0A3CkWybkyIGqYU-13" value="DuitNow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="810" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQvtZ0A3CkWybkyIGqYU-16" value="&lt;span style=&quot;&quot;&gt;Other Bank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
