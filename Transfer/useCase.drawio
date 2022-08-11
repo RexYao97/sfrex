@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T03:05:52.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="S0hYpx7Obz5I-57V6RTa" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-11T03:08:32.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Xx5jEst0pTvP3vDU1f_D" version="20.1.1" type="github">
   <diagram id="NNU2D57arVzQ4B7ft5H6" name="Page-1">
-    <mxGraphModel dx="1426" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vh9fwOP3rLoIfqc9FpIx-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-60" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vh9fwOP3rLoIfqc9FpIx-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vh9fwOP3rLoIfqc9FpIx-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="230" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="vh9fwOP3rLoIfqc9FpIx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh9fwOP3rLoIfqc9FpIx-1" target="vh9fwOP3rLoIfqc9FpIx-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="150" as="targetPoint" />
@@ -28,16 +37,25 @@
           <mxGeometry x="310" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vh9fwOP3rLoIfqc9FpIx-4" value="Recent Transfer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vh9fwOP3rLoIfqc9FpIx-5" value="Saved Transfer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vh9fwOP3rLoIfqc9FpIx-8" value="Transfer Detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vh9fwOP3rLoIfqc9FpIx-10" value="Transfer History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="404.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh9fwOP3rLoIfqc9FpIx-16" value="New Transfer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vh9fwOP3rLoIfqc9FpIx-19" value="Quick Transfer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vh9fwOP3rLoIfqc9FpIx-20" value="Transfer Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="280" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
