@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T06:53:30.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.2.6" etag="KH-KftFPk7OcRtgaOw6H" type="github"><diagram id="J08z-moq-4YXgrF1eUB3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-14T07:11:49.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="mqakmNnRNsff0SzHHo0J" version="20.2.6" type="github">
+  <diagram id="J08z-moq-4YXgrF1eUB3" name="第 1 页">
+    <mxGraphModel dx="2061" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-3" value="RN Bundle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-5" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-6" value="RN Bundle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-8" value="RN Bundle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-9" value="&lt;span style=&quot;&quot;&gt;account&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="135" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-11" value="&lt;span style=&quot;&quot;&gt;casa&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="135" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-12" value="&lt;span style=&quot;&quot;&gt;ekyc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="565" y="135" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-13" value="SeaBankAppMain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="105" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-14" value="Business Layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-15" value="Native service" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-16" value="RN service" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-18" value="SDK" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="610" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
