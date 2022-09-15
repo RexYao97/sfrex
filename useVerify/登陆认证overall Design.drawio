@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T03:26:31.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MrifRpyuCUhQFvqPiAd7" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T03:26:46.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hDzQR_3IV4Jau_oQ3Dre" version="20.2.6" type="github">
   <diagram id="J08z-moq-4YXgrF1eUB3" name="第 1 页">
     <mxGraphModel dx="2061" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="bJTVgxnDyHc0i6QxKm_M-1" value="&lt;span style=&quot;&quot;&gt;SeaBankAppMain&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="170" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="bJTVgxnDyHc0i6QxKm_M-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="bJTVgxnDyHc0i6QxKm_M-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="245" y="10" width="175" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bJTVgxnDyHc0i6QxKm_M-3" value="RN Bundle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
