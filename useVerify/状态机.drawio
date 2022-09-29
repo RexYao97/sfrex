@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T03:35:04.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hSfsioDjmKycp-WEqBYe" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T03:38:16.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rJU8eQ-0Ukhpy_ylUBWu" version="20.3.2" type="github">
   <diagram id="qAumq2mkoo2eFScSY50z" name="第 1 页">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,6 +16,32 @@
         <mxCell id="PGdUF_FOWmfvLCocc4Yg-6" value="prepare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PGdUF_FOWmfvLCocc4Yg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PGdUF_FOWmfvLCocc4Yg-7" target="PGdUF_FOWmfvLCocc4Yg-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="350" />
+              <mxPoint x="630" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGdUF_FOWmfvLCocc4Yg-16" value="autoFinish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PGdUF_FOWmfvLCocc4Yg-15">
+          <mxGeometry x="-0.1351" relative="1" as="geometry">
+            <mxPoint x="-10" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGdUF_FOWmfvLCocc4Yg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGdUF_FOWmfvLCocc4Yg-7" target="PGdUF_FOWmfvLCocc4Yg-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGdUF_FOWmfvLCocc4Yg-21" value="inputFinish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PGdUF_FOWmfvLCocc4Yg-20">
+          <mxGeometry x="-0.2057" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PGdUF_FOWmfvLCocc4Yg-7" value="handlePropsMachine" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,19 +52,30 @@
           <mxGeometry x="650" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PGdUF_FOWmfvLCocc4Yg-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="380" width="280" height="130" as="geometry" />
+          <mxGeometry x="500" y="570" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PGdUF_FOWmfvLCocc4Yg-11" value="beforeVerify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="380" width="90" height="30" as="geometry" />
+          <mxGeometry x="500" y="570" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PGdUF_FOWmfvLCocc4Yg-12" value="handleParamsMachine" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PGdUF_FOWmfvLCocc4Yg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGdUF_FOWmfvLCocc4Yg-13" target="PGdUF_FOWmfvLCocc4Yg-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGdUF_FOWmfvLCocc4Yg-13" value="sendOTP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="850" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGdUF_FOWmfvLCocc4Yg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="PGdUF_FOWmfvLCocc4Yg-18" target="PGdUF_FOWmfvLCocc4Yg-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="530" />
+              <mxPoint x="545" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGdUF_FOWmfvLCocc4Yg-18" value="inputFinish" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
