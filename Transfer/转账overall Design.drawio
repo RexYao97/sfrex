@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T04:10:30.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7V_TbGkdZd4bL3k1qfRu" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T03:14:24.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="qFWts-8VxJylHdV5VwAe" version="20.5.1" type="github">
   <diagram id="J08z-moq-4YXgrF1eUB3" name="第 1 页">
-    <mxGraphModel dx="2061" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,20 +130,32 @@
         <mxCell id="6WeLOK3SUc9M_mdKDQzH-1" value="&lt;span style=&quot;&quot;&gt;casa&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="26" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6WeLOK3SUc9M_mdKDQzH-2" value="Transfer Confirm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="6WeLOK3SUc9M_mdKDQzH-2" value="Transfer Confirm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="325" y="76" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6WeLOK3SUc9M_mdKDQzH-4" value="Transfer Landing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="6WeLOK3SUc9M_mdKDQzH-4" value="Transfer Landing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="325" y="35" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Z2PxHAb3r869k6T93xDv-1" value="New Transfer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Z2PxHAb3r869k6T93xDv-1" value="New Transfer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="245" y="76" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="m9wlAYHM70ItUG7ynoRU-1" value="FacialVerify" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="m9wlAYHM70ItUG7ynoRU-1" value="FacialVerify" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="589.5" y="215" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="m9wlAYHM70ItUG7ynoRU-2" value="SDBFacialVerifyView" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="m9wlAYHM70ItUG7ynoRU-2" value="SDBFacialVerifyView" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="517" y="455" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oYpbF3aN_hUtC8eQvL2-1" value="函数hook" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="720" y="26" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6oYpbF3aN_hUtC8eQvL2-2" value="组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="76" width="75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6oYpbF3aN_hUtC8eQvL2-3" value="native 工具函数" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oYpbF3aN_hUtC8eQvL2-4" value="此版本改动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="75" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
