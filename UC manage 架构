@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T04:08:36.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3Kno0Z-G3R-j_HuRkY3F" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-20T04:20:11.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="L1ASEQCCtVvu1A1aZQSx" version="20.5.3" type="github" pages="2">
   <diagram id="eqonnFO3OMh2MWsKWTwR" name="第 1 页">
     <mxGraphModel dx="660" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,10 +65,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R8qLWgSLxxMZhNjFhEDF" name="第 2 页">
-    <mxGraphModel dx="660" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1086" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="560" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-2" value="Business" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="125" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="95" width="290" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-4" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="95" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="125" width="270" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-6" value="UC Manage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="125" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-7" value="update PIN" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-8" value="update Password" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-9" value="update Email" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-10" value="Record History List" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-11" value="Disable User Password and PIN" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-12" value="Update Mobile Number" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-13" value="Record History Detail" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsX8vyxqM_SslGuPWS-U-14" value="update Share User Status" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
