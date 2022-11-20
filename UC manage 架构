@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T03:43:24.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="l7Dst5UUX3B6toqKt0WL" type="github"><diagram id="eqonnFO3OMh2MWsKWTwR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-20T04:07:31.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DAKYix3Vs9mzJOMla7KY" version="20.5.3" type="github">
+  <diagram id="eqonnFO3OMh2MWsKWTwR" name="第 1 页">
+    <mxGraphModel dx="1234" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="820" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-3" value="Admin Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="128" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="158" width="490" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="200" width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-7" value="UC Manage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-8" value="update PIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-9" value="update Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-10" value="Record History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry x="290" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-11" value="update user EMail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry x="20" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-12" value="update Mobile Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-13" value="update shared User Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-14" value="disabled User PIN and Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o4a2Jc0_MrbbBTgjwtcQ-17">
+          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-18" value="Mobile Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="158" width="260" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-23" value="Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-24" value="Permission" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="585" width="820" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4a2Jc0_MrbbBTgjwtcQ-27" value="Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
