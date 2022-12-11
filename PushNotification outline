@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T13:46:26.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="j95iwgHCcT6sAQ6TQ83l" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-11T13:51:42.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UNScejt4HJzMbefUaSRU" version="20.5.3" type="github" pages="2">
   <diagram id="fwBBcWWWPurroGDTJ8qe" name="第 1 页">
     <mxGraphModel dx="1882" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,10 +205,15 @@
           <mxGeometry x="250" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BUmmni8ZuRkQ0WagYAtD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tppbhW0gLxUhlmpNW6M_-7" target="tppbhW0gLxUhlmpNW6M_-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="280" />
+              <mxPoint x="355" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tppbhW0gLxUhlmpNW6M_-7" value="" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="130" height="100" as="geometry" />
+          <mxGeometry x="290" y="170" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tppbhW0gLxUhlmpNW6M_-8" value="Mermory Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="170" width="100" height="30" as="geometry" />
@@ -295,6 +300,9 @@
         </mxCell>
         <mxCell id="BUmmni8ZuRkQ0WagYAtD-26" value="utils" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="707" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BUmmni8ZuRkQ0WagYAtD-28" value="PNMessage" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="201" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
