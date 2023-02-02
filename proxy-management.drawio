@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T10:08:05.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="KDu3_nedjSk6m-7Qlu14" type="github"><diagram id="hFoFS8xyEegN0raFPcWx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-02T10:41:55.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="zj34udMwzvYtRa21TYXw" type="github">
+  <diagram id="f-Dn983l_AFZ2AhPZlBi" name="第 1 页">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="600" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-2" value="Admin Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="96" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="250" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-4" value="Payment Manangement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-5" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-6" value="Proxy Manangement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="225" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-7" value="DuitNow Profile Lookup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-8" value="DuitNow Profile Action History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-11" value="Data Access Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="475" y="130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-13" value="Role Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="505" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-15" value="Permission" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="220" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="440" as="sourcePoint" />
+            <mxPoint x="780" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DWwlWs-E2ag4GHu3YPZN-18" value="Payment Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
