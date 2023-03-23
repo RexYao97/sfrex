@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T04:08:40.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IjZcVZ-OpRwMhdzNqIDp" version="21.0.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-23T04:08:52.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TJvTCy4QFsF7rURC1JC2" version="21.0.10" type="github" pages="3">
   <diagram id="qAumq2mkoo2eFScSY50z" name="第 1 页">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,16 +224,16 @@
           <mxGeometry x="330" y="137.5" width="210" height="265" as="geometry" />
         </mxCell>
         <mxCell id="AaErhA3RqDazUCGcmDd0-5" value="预备阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="155" width="70" height="30" as="geometry" />
+          <mxGeometry x="330" y="137.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AaErhA3RqDazUCGcmDd0-6" value="{&lt;br&gt;&amp;nbsp;step,&lt;br&gt;subStep,&lt;br&gt;scene,&lt;br&gt;rdVerifyInfo&lt;br&gt;}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="175" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AaErhA3RqDazUCGcmDd0-8" value="处理认证组件的props" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AaErhA3RqDazUCGcmDd0-9" value="发送otp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AaErhA3RqDazUCGcmDd0-10" value="发送otp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="240" width="120" height="60" as="geometry" />
