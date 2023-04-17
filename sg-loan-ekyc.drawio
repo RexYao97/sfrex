@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:18:05.570Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oi3hnvcGIGzLBumZ_B64" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:41:46.106Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0CJqZQj6a86o3jNBS5ov" version="21.1.1" type="github" pages="3">
   <diagram name="第 1 页" id="Llq9-ytteeo9RtltcvFD">
     <mxGraphModel dx="1242" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,6 +122,44 @@
         </mxCell>
         <mxCell id="g0CN0QdgbZrWwXWUsaA6-31" value="IOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="118" y="81" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hx51VbClZEK8TiRMr759" name="第 3 页">
+    <mxGraphModel dx="1242" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="100" width="316" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-3" value="sme-ekyc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-2" value="KycLoanApplyBusinessAccount" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="186" y="180" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-5" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="350" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-7" value="Component" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-8" value="OfflineWebView" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="175" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-9" value="MBAKSPDrawer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="305" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCQsdr2i2C4epMZcV-5q-10" value="KycConnectShopeeStatus" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="186" y="250" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
