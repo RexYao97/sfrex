@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T06:19:25.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.3.7" etag="g9bBI3pn5ZyKEJpsf42g" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T06:25:10.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q_igfdnwp5d-Sak5EtfR" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WC7i8nPKRrfcBwFTHOZt">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HrQUcwDonYYAeFqF-jh-1" target="5HrQUcwDonYYAeFqF-jh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HrQUcwDonYYAeFqF-jh-1" target="5HrQUcwDonYYAeFqF-jh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="5HrQUcwDonYYAeFqF-jh-4" target="5HrQUcwDonYYAeFqF-jh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5HrQUcwDonYYAeFqF-jh-4" target="5HrQUcwDonYYAeFqF-jh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-4" value="view home page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="225" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-5" value="view me page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="355" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-8" value="view retail credit card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-9" value="view retail amount info card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-13" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HrQUcwDonYYAeFqF-jh-14" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
