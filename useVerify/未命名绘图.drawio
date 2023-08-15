@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T12:57:53.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="7ZNsh1PZbWyL7BeNMIPU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T13:16:57.809Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="w6rtYXB3vKCSCmZR44Pc" version="21.6.8" type="github">
   <diagram name="第 1 页" id="wPs__l3MJfmM6bQFqC5a">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-2" value="添加新认证步骤" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="129.5" as="sourcePoint" />
+            <mxPoint x="310" y="129.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-6" value="针对新步骤的单元测试" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="129.5" as="sourcePoint" />
+            <mxPoint x="580" y="129.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="150" as="targetPoint" />
+            <mxPoint x="530" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-17" value="verify-component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmbnYWSIljQjeZbv-C4p-21" value="common" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
