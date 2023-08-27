@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T14:43:20.242Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vM0slpF2B82LlaJuB-vT" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-27T14:43:29.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iqGhPv4Oq3NdXkDOSYBp" version="21.6.8" type="github" pages="3">
   <diagram name="第 1 页" id="wPs__l3MJfmM6bQFqC5a">
     <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,8 +103,8 @@
             <mxPoint x="310" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mht4S93xIq7vlfkToOuj-10" value="如果版本更新&lt;br&gt;下载配置最新的离线包，与离线包规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="230" height="40" as="geometry" />
+        <mxCell id="mht4S93xIq7vlfkToOuj-10" value="如果版本更新&lt;br&gt;下载配置最新的离线包与离线包规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="300" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mht4S93xIq7vlfkToOuj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mht4S93xIq7vlfkToOuj-11" target="mht4S93xIq7vlfkToOuj-15">
           <mxGeometry relative="1" as="geometry" />
