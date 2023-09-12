@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T14:16:56.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1YmkeCw70zmzlmFX78RW" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-12T06:35:37.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QTCLb2d9Cdk4PqUgrUEW" version="21.7.2" type="github" pages="3">
   <diagram name="第 1 页" id="jQRooHSyb7MJXE1rSH56">
     <mxGraphModel dx="1242" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9-R0mGMfa7sEu8nlr3CR" name="第 2 页">
-    <mxGraphModel dx="1553" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,160 @@
         </mxCell>
         <mxCell id="CfUDHvSn5j059TAhk5t0-25" value="Account Detail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UYHtDw7mshDB4mJOmLv_" name="第 3 页">
+    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qI7igC0cSJYmOUjUClxw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-1" target="qI7igC0cSJYmOUjUClxw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-1" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-2" target="qI7igC0cSJYmOUjUClxw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-2" value="Business Tax Declaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-4" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-7" target="qI7igC0cSJYmOUjUClxw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-7" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-9" target="qI7igC0cSJYmOUjUClxw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-9" value="Business Active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-10" target="qI7igC0cSJYmOUjUClxw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-10" target="qI7igC0cSJYmOUjUClxw-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="455" />
+              <mxPoint x="540" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-10" value="Person Tax Declaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-11" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-15" target="qI7igC0cSJYmOUjUClxw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-15" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-17" target="qI7igC0cSJYmOUjUClxw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-17" value="Business Active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-20" target="qI7igC0cSJYmOUjUClxw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-20" target="qI7igC0cSJYmOUjUClxw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="535" />
+              <mxPoint x="540" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-20" value="Business Tax Declaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-21" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-23" target="qI7igC0cSJYmOUjUClxw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-23" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-25" target="qI7igC0cSJYmOUjUClxw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-25" value="Business Active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-28" target="qI7igC0cSJYmOUjUClxw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-28" target="qI7igC0cSJYmOUjUClxw-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="630" />
+              <mxPoint x="540" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-28" value="Person Tax Declaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-29" target="qI7igC0cSJYmOUjUClxw-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="630" />
+              <mxPoint x="720" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-29" target="qI7igC0cSJYmOUjUClxw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-29" value="Business Tax Declaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-31" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-34" target="qI7igC0cSJYmOUjUClxw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-34" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-36" target="qI7igC0cSJYmOUjUClxw-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-36" value="Person Tax Declaration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-37" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-39" target="qI7igC0cSJYmOUjUClxw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-39" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qI7igC0cSJYmOUjUClxw-41" target="qI7igC0cSJYmOUjUClxw-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-41" value="Business Active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI7igC0cSJYmOUjUClxw-42" value="ReviewPage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
