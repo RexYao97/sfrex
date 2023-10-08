@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T16:41:48.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nV6-lB6mrxdBFoYlsf0L" version="21.7.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-08T16:50:56.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UvVUHFo25mFSonFhLGcm" version="21.7.5" type="github" pages="8">
   <diagram name="第 1 页" id="wPs__l3MJfmM6bQFqC5a">
     <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
         <mxCell id="DMNq_DJKXKmMhUhXRn0E-5" value="其它页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNq_DJKXKmMhUhXRn0E-6" value="CVP页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DMNq_DJKXKmMhUhXRn0E-6" value="CVP页面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DMNq_DJKXKmMhUhXRn0E-8" value="navigator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -401,8 +401,64 @@
             <mxPoint x="400" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DMNq_DJKXKmMhUhXRn0E-10" value="预加载webview" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="DMNq_DJKXKmMhUhXRn0E-10" value="预加载webview" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yag9o0xEx-6w_S3ZNPg5" name="第 8 页">
+    <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VjN4M-CKvl4BXBvWz5ZS-4" target="VjN4M-CKvl4BXBvWz5ZS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VjN4M-CKvl4BXBvWz5ZS-5" target="VjN4M-CKvl4BXBvWz5ZS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VjN4M-CKvl4BXBvWz5ZS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-5" value="遍历Filter配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VjN4M-CKvl4BXBvWz5ZS-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VjN4M-CKvl4BXBvWz5ZS-7" target="VjN4M-CKvl4BXBvWz5ZS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="545" />
+              <mxPoint x="510" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-7" value="执行condition，判断返回值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-12" value="遍历结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="368" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-13" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="608" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VjN4M-CKvl4BXBvWz5ZS-14" target="VjN4M-CKvl4BXBvWz5ZS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-14" value="跳出循环，执行配置的beforeNavigate" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="680" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VjN4M-CKvl4BXBvWz5ZS-16" value="执行其它Filter" style="whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="368" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
