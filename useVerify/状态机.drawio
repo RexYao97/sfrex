@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T10:54:45.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pg_6VuxCDtsQso6lyOHb" version="21.7.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-08T10:57:14.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Di06vjO6iapCMdmpR8yQ" version="21.7.5" type="github" pages="8">
   <diagram id="qAumq2mkoo2eFScSY50z" name="第 1 页">
     <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -734,7 +734,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9QqvSshJogSd1f9_bhG" name="第 8 页">
-    <mxGraphModel dx="2483" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2738" dy="1214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -808,8 +808,40 @@
         <mxCell id="DqGfUTOp1OoBqTFFmUrK-27" value="用户输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="808" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.399;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DqGfUTOp1OoBqTFFmUrK-28" target="DqGfUTOp1OoBqTFFmUrK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="630" />
+              <mxPoint x="1250" y="220" />
+              <mxPoint x="88" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DqGfUTOp1OoBqTFFmUrK-28" target="DqGfUTOp1OoBqTFFmUrK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DqGfUTOp1OoBqTFFmUrK-28" target="DqGfUTOp1OoBqTFFmUrK-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DqGfUTOp1OoBqTFFmUrK-28" value="判断返回值中的action控制流程" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="807.5" y="560" width="185" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-35" value="进入二次认证流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-37" value="发送请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="630" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-38" value="认证中" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-39" value="挂起状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqGfUTOp1OoBqTFFmUrK-41" value="重新输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="720" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
