@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:11:19.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Fq8zRQ44xqK0oQ5suvhe" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-08T08:15:06.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="x2hfqxmRPrrQzawY4Fei" version="21.7.5" type="github" pages="2">
   <diagram id="J08z-moq-4YXgrF1eUB3" name="第 1 页">
     <mxGraphModel dx="2069" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,8 +159,47 @@
         <mxCell id="Y3pnZz7cQrLOSk_6JpkV-5" value="BOP&lt;br&gt;one-time-pin认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-7" value="BP&lt;br&gt;PIN认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-7" value="BSO&lt;br&gt;OTP认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-8" value="BSON&lt;br&gt;新手机OTP认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-9" value="BEO&lt;br&gt;Email OTP+ST认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-10" value="BSOT&lt;br&gt;OTP+ST认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-11" value="阶段标识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-12" value="PIN标识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-13" value="手机OTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-14" value="邮箱OTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-16" value="BST&lt;br&gt;ST认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="524.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-17" value="soft-token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="539.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-18" value="BPW&lt;br&gt;密码认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-19" value="BPWST&lt;br&gt;密码+ST认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-20" value="BOPW&lt;br&gt;one-time-pw认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3pnZz7cQrLOSk_6JpkV-21" value="密码标识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="635" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
