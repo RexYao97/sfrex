@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T08:38:36.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NtOtPBS5YsbcHHydM98p" version="21.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-08T09:21:19.656Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JJvVdu3B6MXXEM-PBEBl" version="21.7.5" type="github" pages="4">
   <diagram id="J08z-moq-4YXgrF1eUB3" name="第 1 页">
     <mxGraphModel dx="2069" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -329,6 +329,14 @@
         <mxCell id="KTHMdIsLZeiqySJyBezl-28" value="多选步骤在不同的场景中需要选择不一样的认证步骤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="300" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5RtMQSUvXRYV6I8GQl4X" name="第 4 页">
+    <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
