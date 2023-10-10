@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T08:06:16.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yfVwaFC-RYrfkoXVibUY" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-10T08:09:09.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UOkSJDhV17zoJl2ZX4r5" version="22.0.4" type="github" pages="4">
   <diagram name="第 1 页" id="SVOeLLBuaqfscllLG8ez">
     <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,13 +400,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DcLgtRXE91wZauaQoets-2" value="Approve Centre List Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="110" width="170" height="30" as="geometry" />
+          <mxGeometry x="260" y="110" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DcLgtRXE91wZauaQoets-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="170" height="120" as="geometry" />
+          <mxGeometry x="260" y="140" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DcLgtRXE91wZauaQoets-10" value="state:{&lt;br&gt;approveList :&amp;nbsp; Array,&lt;br&gt;myRequestList: Array,&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="140" height="70" as="geometry" />
+          <mxGeometry x="260" y="140" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DcLgtRXE91wZauaQoets-11" value="Approve Centre List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="170" height="30" as="geometry" />
