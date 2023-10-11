@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T10:31:01.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Jp4J0EL0RKsv6nOjIquL" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-11T02:45:02.497Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dIeB-HIlFzc6pemdmTi2" version="22.0.4" type="github" pages="5">
   <diagram name="第 1 页" id="SVOeLLBuaqfscllLG8ez">
     <mxGraphModel dx="1242" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -468,14 +468,14 @@
         <mxCell id="DcLgtRXE91wZauaQoets-25" value="props:{&lt;br&gt;title :&amp;nbsp; string,&lt;br&gt;subTtitle: string,&lt;br&gt;status:&quot;submitted&quot;|&quot;appored&quot;|&quot;expried&quot;|&quot;rejected&quot;&lt;br&gt;operator: string&lt;br&gt;operator?: string&lt;br&gt;onPress?: ()=&amp;gt;void&lt;br&gt;rightChild: Element&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1710" y="150" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="DcLgtRXE91wZauaQoets-26" value="props:{&lt;br&gt;scene:&quot;toApproved&quot;|&quot;MyRequest&quot;|&quot;Hisotry&quot;&lt;br&gt;list: Array&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="135" width="250" height="70" as="geometry" />
+        <mxCell id="DcLgtRXE91wZauaQoets-26" value="props:{&lt;br&gt;list: Array&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcLgtRXE91wZauaQoets-28" value="props:{&lt;br&gt;cardType:&quot;Pay&quot;&amp;nbsp; ,&lt;br&gt;cardData: Object&lt;br&gt;scene:&quot;toApproved&quot;|&quot;MyRequest&quot;|&quot;Hisotry&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="130" width="250" height="90" as="geometry" />
+        <mxCell id="DcLgtRXE91wZauaQoets-28" value="props:{&lt;br&gt;cardType:&quot;Pay&quot;&amp;nbsp; ,&lt;br&gt;cardData: Object&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="140" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DcLgtRXE91wZauaQoets-29" value="props:{&lt;br&gt;cardData: Object&lt;br&gt;scene:&quot;toApproved&quot;|&quot;MyRequest&quot;|&quot;Hisotry&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="135" width="250" height="70" as="geometry" />
+        <mxCell id="DcLgtRXE91wZauaQoets-29" value="props:{&lt;br&gt;cardData: Object&lt;br&gt;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="135" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DcLgtRXE91wZauaQoets-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -498,8 +498,40 @@
         <mxCell id="DcLgtRXE91wZauaQoets-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="330" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DcLgtRXE91wZauaQoets-34" value="props:{&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cardData: Object&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;scene:&quot;toApproved&quot;|&quot;MyRequest&quot;|&quot;Hisotry&quot;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="325" width="250" height="70" as="geometry" />
+        <mxCell id="DcLgtRXE91wZauaQoets-34" value="props:{&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cardData: Object&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="330" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C0ukNhvNSHN7-296-qSS-2" value="Approve Centre Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="325" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emsBVYmtyrtBnl_7ZiwK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C0ukNhvNSHN7-296-qSS-3" target="DcLgtRXE91wZauaQoets-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0ukNhvNSHN7-296-qSS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="355" width="270" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="C0ukNhvNSHN7-296-qSS-4" value="props:{&lt;br&gt;&amp;nbsp;tabList:Array&amp;lt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; value:string, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; key:string,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; subTabList:Array&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&amp;gt;,&lt;br&gt;&amp;nbsp;tabValue:{&lt;br&gt;&amp;nbsp; &amp;nbsp; value:string&lt;br&gt;&amp;nbsp; &amp;nbsp; subTabValue: string&lt;br&gt;&amp;nbsp; },&lt;br&gt;&amp;nbsp;onPress:({&lt;br&gt;&amp;nbsp; &amp;nbsp; value:string,&lt;br&gt;&amp;nbsp; &amp;nbsp; subTabValue:string&lt;br&gt;&amp;nbsp; })=&amp;gt;void&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="355" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="emsBVYmtyrtBnl_7ZiwK-1" value="Approve Centre SubTab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="315" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emsBVYmtyrtBnl_7ZiwK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="emsBVYmtyrtBnl_7ZiwK-2" target="C0ukNhvNSHN7-296-qSS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="405" />
+              <mxPoint x="830" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="emsBVYmtyrtBnl_7ZiwK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="345" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="emsBVYmtyrtBnl_7ZiwK-3" value="props:{&lt;br&gt;&amp;nbsp;subTabList:Array,&lt;br&gt;&amp;nbsp;subTabValue:string,&lt;br&gt;&amp;nbsp;onPress?:(subTabValue:string)=&amp;gt;void&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="345" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mdODPO0i2_gZybk8rBxy-1" value="这里只处理UI渲染样式，不处理业务逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="30" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -601,6 +633,24 @@
         </mxCell>
         <mxCell id="eWKUjO3y-9rqGmt7m8hz-26" value="props:{&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cardData: Object&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;scene:&quot;toApproved&quot;|&quot;MyRequest&quot;|&quot;Hisotry&quot;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1350" y="325" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g1ACZU6_caGpom0tDZjV-1" value="Approve Centre SubTab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="325" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g1ACZU6_caGpom0tDZjV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1ACZU6_caGpom0tDZjV-3" target="eWKUjO3y-9rqGmt7m8hz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="415" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="415" />
+              <mxPoint x="480" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1ACZU6_caGpom0tDZjV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="355" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g1ACZU6_caGpom0tDZjV-4" value="props:{&lt;br&gt;&amp;nbsp;subTabList:Array,&lt;br&gt;&amp;nbsp;subTabValue:string,&lt;br&gt;&amp;nbsp;onPress?:(subTabValue:string)=&amp;gt;void&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="355" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
